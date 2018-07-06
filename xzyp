@@ -1,0 +1,33 @@
+ <?xml version-'1.O" encoding="UTF-8"?>
+<!D0CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.eom/DTDs/PropertyList-:L0.dtd_1> <plist version=M1.0M>
+<dict>
+<key>qhg_ios.ipa</key> <array>
+</array> </dict>
+</plist>
+<dict>
+<array>
+</dict> </dict>
+<key>architectures</key>
+<st ring>a rmv7</st ring> <st ring>a rm64</st ring>
+</array> <key>certificate</key> <dict>
+<key>SHAl</key>
+<st ring>C8DlBBD6925AA5AA7677A3621DDF5D6D2CE271DA</st ring> <key>dateExpires</key>
+<string>2020/8/7</string>
+<key>type</key>
+<string>iOS Distribution</string>
+</dict> <key>entitlements</key> <dict>
+<key>application-identifier</key> <string>ZT584TJP4C.com.innext.xzyp.test</string> <key>com.apple.developer.team-identifier</key> <st ring>ZT584TJ P4C</st ring> <key>get-task-allow</key>
+<false/> <key>keychain-access-groups</key> <array>
+<string>ZT584TJP4C.com.innext.xzyp.test</string>
+</array> </dict>
+<key>name</key>
+<st ring>qhg一ios,app</st ring> <key>p rof ile</key>
+<dict>
+<key>UUID</key>
+<st ring>d4ed4304-4963-489f-b77a-87653b017510</st ring> <key>name</key>
+<string>iOS Team Inhouse Provisioning Profile: com.innext.xzyp.test</string>
+</dict> <key>team</key> <dict>
+<key>id</key>
+<st ring>ZT584TJ P4C</st ring>
+<key>name</key>
+<string>Shanghai Zhulin Financial information Service Co.f Ltd.</string>
